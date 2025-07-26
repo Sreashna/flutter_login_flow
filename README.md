@@ -1,20 +1,26 @@
-<<<<<<< HEAD
-# logindart
+# ✨ Flutter Login Flow  
 
-A new Flutter project.
+🚀 A **Flutter** app that demonstrates a smooth and modern login flow with:  
+✅ **Splash Screen**  
+✅ **Get Started Screen**  
+✅ **Login Screen with custom UI**  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🌟 Features  
+- 🎨 Beautiful and simple UI design  
+- ⏳ Splash screen with automatic navigation  
+- 🧭 Easy transitions using Flutter’s `Navigator`  
+- ✍️ Styled `TextField`, `RichText`, and `ElevatedButton`  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Getting Started  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# flutter_login_flow
->>>>>>> 9bb69127db3ef4ef4e8e0630a996f30430ee3680
+Follow these steps to run the project locally:  
+
+```bash
+git clone https://github.com/Sreashna/flutter_login_flow.git
+cd flutter_login_flow
+flutter pub get
+flutter run
